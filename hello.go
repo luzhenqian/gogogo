@@ -3,5 +3,5 @@ package gogogo
 import "fmt"
 
 func Hello() {
-	fmt.Printf("I'm 卢振千")
+	fmt.Println("I'm 卢振千")
 }
