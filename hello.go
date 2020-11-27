@@ -2,6 +2,6 @@ package gogogo
 
 import "fmt"
 
-func Hello() {
-	fmt.Println("I'm 卢振千")
+func Hello(name string) {
+	fmt.Printf("I'm %s\n", name)
 }
